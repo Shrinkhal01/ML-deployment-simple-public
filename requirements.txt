@@ -1,0 +1,7 @@
+tensorflow
+opencv-python
+gradio
+numpy
+fastapi
+uvicorn
+pillow
